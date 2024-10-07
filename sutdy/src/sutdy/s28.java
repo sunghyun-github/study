@@ -2,7 +2,7 @@ package sutdy;
 
 import java.util.ArrayList;
 
-class Solution {
+class s28 {
     public int[] solution(int n) {
         ArrayList<Integer> tempAnswer = new ArrayList<>(); // 동적 리스트 사용
         

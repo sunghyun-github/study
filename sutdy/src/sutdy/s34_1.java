@@ -15,7 +15,6 @@ class s34_1 {
 	        	// 각 문자에서 변환된 숫자를 answer에 더해, 최종적으로 모든 숫자의 합을 구함
 	            answer += Character.getNumericValue(ch);
 	        }
-
 	        return answer;
 	    }
 	}

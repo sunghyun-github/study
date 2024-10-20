@@ -9,6 +9,5 @@ class s52 {
             answer = 1;
         }
         return answer;
-        
     }
 }
